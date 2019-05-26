@@ -12,3 +12,4 @@ for char in name:
 
 print(f"no of uppercase letter in {name} is {upper_case}")
 print(f"no of lowercase letter in {name} is {lower_case}")
+    

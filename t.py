@@ -4,7 +4,7 @@ def greatest(x,y,z):
     if y > z:
         return f"{y} is greater"
     else:
-        return "z is greater"
+        return f"{z} is greater"
 
 num1 = int(input("enter 1st no= "))
 num2 = int(input("enter 2nd no= "))
