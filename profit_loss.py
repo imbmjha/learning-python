@@ -1,0 +1,1 @@
+# total sp of 15 item and profit on them is input by keyboard. find cp
